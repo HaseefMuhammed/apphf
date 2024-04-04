@@ -1,4 +1,4 @@
-console.log("2");
+console.log("3");
 
 function login(){
     let username = document.getElementById("username").value;
